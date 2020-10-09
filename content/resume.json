@@ -1,0 +1,93 @@
+{
+  "header": {
+    "name": "Riva Madan",
+    "linkedin": "https://www.linkedin.com/in/riva-madan-bb492993/",
+    "phone": "510-299-2993",
+    "email": "riva.madan@gmail.com",
+    "github": "https://github.com/rivamadan"
+  },
+  "summary": "I'm a frontend web developer, but open to fullstack work. I'm currently more interested in development positions than managerial roles. My dream job is to work as a software engineer for a company involving science, specifically ecology, earth science, sustainable resources and other environmental sciences.",
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "year": "2015",
+      "majors": [
+        "B.S. Environmental Sciences"
+      ],
+      "minors": [
+        "Dance and Performance Studies",
+        "Forestry and Natural Resources"
+      ]
+    }
+  ],
+  "skills": {
+    "techincal": [
+      "Typescript",
+      "Javascript",
+      "Angular",
+      "React",
+      "AngularJS",
+      "HTML",
+      "CSS/SASS",
+      "Ruby on Rails",
+      "npm",
+      "Webpack",
+      "Gulp",
+      "Git",
+      "Java"
+    ],
+    "other": [
+      "Github",
+      "Gitlab",
+      "Zenhub",
+      "Atlassian",
+      "Adobe Photoshop",
+      "Adobe Premiere",
+      "Unity",
+      "Blender",
+      "ArcGIS"
+    ]
+  },
+  "employment": [
+    {
+      "company": "IBM Aspera",
+      "roles": [
+        {
+          "title": "Associate Frontend Engineering Manager",
+          "time": "Mar 2020 – Present",
+          "bullets": [
+            "Pushed management to make frontend it's own team so it can work more easily across products",
+            "Develop on new React frontends that use IBM Carbon Design System for two products, Faspex and CP4i",
+            "Continue to maintain and add features to IBM Aspera on Cloud",
+            "Responsible for sprint (3 week) and quarterly planning for all products based on upper management priorities",
+            "Identify and resolve blockers with backend and design",
+            "Architect APIs with backend engineers",
+            "Help designs stay consistent by helping design team develop design patterns and ensure they are followed"
+          ]
+        },
+        {
+          "title": "Senior/Lead Frontend Engineer",
+          "time": "Oct 2017 – March 2020",
+          "bullets": [
+            "Over a three month period, co-lead the rewrite of Aspera Files (AngularJS) into IBM Aspera on Cloud (Angular) for both a better UX experience and better code quality, reusability and maintainability",
+            "Implemented a library, Aspera Core, that contained reusable components and handled common functionality such as styling and authentication",
+            "Implement several feature requests within two week sprints",
+            "Fix critical bugs that affect customer workflows on short notice",
+            "Work closely with UX and VD team",
+            "Mentor and manage tasks for junior frontend developers"
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "time": "Apr 2016 – Oct 2017",
+          "bullets": [
+            "One of two frontend web developers for our first SaaS web application, Aspera Files (AngularJS), Aspera's fastest growing product in terms of features and customer base",
+            "Simultaneously worked full stack on several other Rails products, including legacy products",
+            "Sole developer on a Java program to transfer data from Aspera transfer servers and Aspera Files’ MySQL database into Elasticsearch",
+            "Promoted from intern to full time in one week"
+          ]
+        }
+      ]
+    }
+  ]
+}

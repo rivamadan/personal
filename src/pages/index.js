@@ -1,5 +1,5 @@
-import React from "react"
+import React from 'react'
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <a href="/resume">Go To Resume</a>
 }
