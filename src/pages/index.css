@@ -1,0 +1,8 @@
+.cover-image {
+  background-image: url(../../assets/images/cover-image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75vh;
+  width: 100vw;
+}

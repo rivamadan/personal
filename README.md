@@ -1,4 +1,4 @@
-# Riva Madan's Personal Site
+# Riva Madan's Personal Website
 
 ## Tech
 
@@ -6,4 +6,4 @@
 
 ## Development
 
-Run `npm install`. After run `npm run start` and navigate to `http://localhost:8000/`.
+Run `npm install`. After run `npm run dev` and navigate to `http://localhost:8000/`.

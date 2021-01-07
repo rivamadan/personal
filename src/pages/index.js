@@ -1,6 +1,13 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import './index.css'
+import "normalize.css"
 
 export default function Home() {
-  return <Link href="/resume">Go To Resume</Link>
+  return (
+    <>
+      <div className="cover-image"></div>
+      <Link to="/resume">Go To Resume</Link>
+    </>
+  );
 }
